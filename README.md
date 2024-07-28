@@ -1,3 +1,3 @@
 Lexcine,
-Rushay Xumines,
+Rushay Ximines,
 Clifford Johnson
