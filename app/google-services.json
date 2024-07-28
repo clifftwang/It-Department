@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310549414643",
+    "project_id": "itdepartmentapp-f3105",
+    "storage_bucket": "itdepartmentapp-f3105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310549414643:android:dfa04ddacd4c1f0ef42d86",
+        "android_client_info": {
+          "package_name": "com.gamecodeschool.itdepartmentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHfoNxIuBJs3gHkBspZ4m0G9FfNSN6YMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
