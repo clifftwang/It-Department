@@ -1,3 +1,3 @@
-Lexcine,
+Lexcine Stevens,
 Rushay Ximines,
 Clifford Johnson
